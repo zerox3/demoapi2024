@@ -10,7 +10,7 @@
     { "id": 3, "body": "Get the latest Malaysia news stories and opinions with focus on National, Regional, Sarawak and World News, as well as reports from Parliament and Court.", "postId": 3 }
   ],
   "todo": {
-	  "list": [
+	"list": {[
     { "id": 1, "title": "Go Someplace You’ve Never Been", "completed": 1},
     { "id": 2, "title": "Declutter One Room or Category" , "completed": 0},
     { "id": 3, "title": "Do a Digital Clean Out" , "completed": 0},
@@ -21,7 +21,10 @@
     { "id": 8, "title": "Make One New Connection" , "completed": 0},
     { "id": 9, "title": "Find new job" , "completed": 1},
 	{ "id": 10, "title": "Donate to charity" , "completed": 0}
-	]
+	]},
+	"profile": {
+		"name": "demoapi2024"
+	}
   },
   "profile": {
     "name": "demoapi2024"
